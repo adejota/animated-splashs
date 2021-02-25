@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-claro-color absolute w-full h-screen flex justify-center items-center bg-black top-0 bottom-0 right-0 left-0 lg:max-w-screen-sm mx-auto animate__animated animate__fadeInUp animate__faster">
+  <div class="bg-claro-color absolute w-full h-screen flex justify-center items-center top-0 bottom-0 right-0 left-0 lg:max-w-screen-sm mx-auto animate__animated animate__fadeInUp animate__faster">
     <div
       v-if="state.logoAnimation"
       class="w-1/2 animate__animated animate__flipInX"

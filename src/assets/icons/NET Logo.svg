@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="177.919" height="42.211" viewBox="0 0 177.919 42.211">
+  <path id="T" d="M1502-1338.434v3.566l8.7.02,8.688.03.03,17.515.02,17.515,2.358-.03c2.348-.03,2.348-.03,2.913-.307a3.336,3.336,0,0,0,1.585-1.743l.228-.555.05-16.2.05-16.2,8.7-.03,8.688-.02V-1342h-42Z" transform="translate(-1366.084 1342)" fill="#fff"/>
+  <path id="Linha_inferior" data-name="Linha inferior" d="M649-984.483v3.517h75.09V-988H649Z" transform="translate(-597.586 1023.069)" fill="#fff"/>
+  <path id="Sompra_inferior" data-name="Sompra inferior" d="M1696.486,354.246c-42.455,7.181-75.17,0-75.17,0Z" transform="translate(1748.01 389.328) rotate(180)" fill="#60bbea"/>
+  <path id="Linha_meio" data-name="Linha meio" d="M649-1161.483v3.517h75.09V-1165H649Z" transform="translate(-597.586 1182.534)" fill="#fff"/>
+  <path id="Sombra_superior" data-name="Sombra superior" d="M1696.486,354.246c-42.455,7.181-75.17,0-75.17,0Z" transform="translate(-1570.107 -347.255)" fill="#60bbea"/>
+  <path id="Linha_superior" data-name="Linha superior" d="M649-1338.483v3.517h75.09V-1342H649Z" transform="translate(-597.586 1342)" fill="#fff"/>
+  <path id="N" d="M130-1319.1v21.011h7.133v-16.94c0-9.322.03-16.94.079-16.93s5.954,7.618,13.146,16.93l13.076,16.93h4.389l4.379.01v-42H164.97l-.02,16.445-.03,16.455-11.68-15.068c-6.419-8.292-11.907-15.276-12.185-15.523a10.14,10.14,0,0,0-3.477-2.021c-.664-.218-.852-.228-4.131-.268L130-1340.1Z" transform="translate(-130 1340.288)" fill="#fff"/>
+</svg>
+

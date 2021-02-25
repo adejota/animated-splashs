@@ -25,24 +25,38 @@
 
           <div
             @click="router.push({ name: 'Splash', params: { component: 'C6Splash' } })"
-            class="flex flex-col items-center cursor-pointer mr-4"
+            class="flex flex-col items-center cursor-pointer mr-4 focus:outline-none"
           >
             <icon
               name="c6Logo"
               size="76"
+              class="focus:outline-none"
             />
             <span class="mt-2">C6 Bank</span>
           </div>
 
           <div
             @click="router.push({ name: 'Splash', params: { component: 'ClaroSplash' } })"
-            class="flex flex-col items-center cursor-pointer"
+            class="flex flex-col items-center cursor-pointer mr-4 focus:outline-none"
           >
             <icon
               name="claroLogo"
               size="76"
+              class="focus:outline-none"
             />
             <span class="mt-2">Claro</span>
+          </div>
+
+          <div
+            @click="router.push({ name: 'Splash', params: { component: 'NetClaroSplash' } })"
+            class="flex flex-col items-center cursor-pointer mr-4 focus:outline-none"
+          >
+            <icon
+              name="claroNetLogo"
+              size="76"
+              class="focus:outline-none"
+            />
+            <span class="mt-2">NET Claro</span>
           </div>
 
         </div>
